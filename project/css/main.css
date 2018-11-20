@@ -1,12 +1,12 @@
 
 body {
-  background-color: #d0e4fe;
+  background-color: black;
   text-align: center;
 }
 
 h1 {
   font-family: 'Lobster', cursive;
-  color: orange;
+  color: red;
 }
 
 p {
